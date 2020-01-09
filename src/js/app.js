@@ -65,4 +65,10 @@ if(month === 1){
     } else{
         sign = Cancer;
     }
+} else if(month == ){
+    if(day <= 22){
+        sign = Cancer;
+    } else{
+        sign = Cancer;
+    }
 }
